@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Our Project
+subtitle: An Ethnic Spring in the Food Desert? How State Policy Affects Food Environments and Business Entrepreneurship
 ---
 
 My name is Inigo Montoya. I have the following qualities:
