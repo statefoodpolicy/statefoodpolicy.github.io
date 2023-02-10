@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Our Project
+title: Our Project
 subtitle: An Ethnic Spring in the Food Desert? How State Policy Affects Food Environments and Business Entrepreneurship
 ---
 
