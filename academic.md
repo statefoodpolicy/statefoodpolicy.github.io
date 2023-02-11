@@ -12,7 +12,7 @@ title: Academic Researchers
 
 Andrea is an assistant professor of political science. She is the project's principal investigator representing UNT.
 
-Check out Andrea's UNT faculty page [here](https://politicalscience.unt.edu/people/andrea-silva).
+Visit Andrea's UNT faculty page [here](https://politicalscience.unt.edu/people/andrea-silva).
 
 <br>
 
@@ -23,4 +23,4 @@ Check out Andrea's UNT faculty page [here](https://politicalscience.unt.edu/peop
 
 Shellye is an assistant professor and agricultural economist. She is the project's principal investigator representing IU.
 
-Check out Shellye's IU faculty page [here](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html).
+Visit Shellye's IU faculty page [here](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html).
