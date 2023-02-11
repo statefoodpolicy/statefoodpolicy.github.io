@@ -50,18 +50,18 @@ round-avatar: false
 social-network-links:
   email: "statefoodpolicynsf@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+#  facebook: yourname
   github: statefoodpolicy
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
+#  twitter: yourname
+#  patreon: yourname
+#  youtube: c/yourname
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "3943160/yourname"
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
