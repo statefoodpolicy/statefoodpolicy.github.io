@@ -3,6 +3,8 @@ layout: page
 title: Academic Researchers
 ---
 
+<br>
+
 ## Andrea Silva, PhD
 ### Department of Political Science
 ### University of North Texas
