@@ -7,7 +7,8 @@ title: Academic Researchers
 ### Department of Political Science
 ### University of North Texas
 
-<br>
+
+
 ![Shellye Suttles](/assets/img/shellye3.jpg)
 ## Shellye Suttles, PhD
 ### O'Neill School of Public & Environmental Affairs
