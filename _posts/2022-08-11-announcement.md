@@ -2,6 +2,7 @@
 layout: post
 title: NSF Announcement
 subtitle: Build & Broaden 3.0
+thumbnail-img: /assets/img/ProjectFig1.jpg
 tags: [grant nsf ses]
 ---
 
