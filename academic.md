@@ -8,7 +8,7 @@ title: Academic Researchers
 ### University of North Texas
 
 <br>
-![Shellye Suttles](assets/img/shellye3.jpg)
+![Shellye Suttles](/assets/img/shellye3.jpg)
 ## Shellye Suttles, PhD
 ### O'Neill School of Public & Environmental Affairs
 ### Indiana University Bloomington
