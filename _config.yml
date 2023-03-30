@@ -23,7 +23,7 @@ navbar-links:
   About Project: "aboutproject"
   Researchers:
     - Academic: "academic"
-    - Community: "community"
+    - State: "state"
 
 ################
 # --- Logo --- #
