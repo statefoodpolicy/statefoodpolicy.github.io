@@ -14,6 +14,8 @@ Project Scientist, Berkeley Food Institute<br>
 ![Francisco Benítez](/assets/img/francisco3.jpg)<br>
 Francisco is a project scientist at [Berkeley Food Institute](https://food.berkeley.edu/). He holds a PhD from Wageningen University & Research. He has a multi-disciplinary background specializing in food value chains, acquired from his labor experience in governmental institutions and academic career. His research addresses policy and socioeconomic barriers toward sustainable food systems.
 
+---
+
 Sakeenah Shabazz
 
 
@@ -31,6 +33,8 @@ Milele Kennedy
 ### Maine Network of Community Food Councils
 
 Darcy Cooke
+
+---
 
 Ken Morse
 
@@ -52,6 +56,8 @@ Maura was among the many co-founders of the [Syracuse-Onondaga Food Systems Alli
 ### Office of Sustainability, City of Austin
 
 Edwin Marty
+
+---
 
 Amanda Rohlich<br>
 Food Policy Advisor, City of Austin<br>
