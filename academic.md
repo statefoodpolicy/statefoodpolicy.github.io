@@ -8,7 +8,7 @@ title: Academic Researchers
 ## Andrea Silva, PhD
 ### Department of Political Science
 ### University of North Texas
-![Andrea Silva](/assets/img/andrea2.jpg)
+![Andrea Silva](/assets/img/andrea3.jpg)
 
 Andrea is an assistant professor of political science. She is the project's principal investigator representing UNT.
 
@@ -19,7 +19,7 @@ Visit Andrea's UNT faculty page [here](https://politicalscience.unt.edu/people/a
 ## Shellye Suttles, PhD
 ### O'Neill School of Public & Environmental Affairs
 ### Indiana University
-![Shellye Suttles](/assets/img/shellye2.jpg)
+![Shellye Suttles](/assets/img/shellye3.jpg)
 
 Shellye is an assistant professor and agricultural economist. She is the project's principal investigator representing IU.
 
