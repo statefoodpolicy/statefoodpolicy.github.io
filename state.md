@@ -11,7 +11,7 @@ subtitle: An Ethnic Spring in the Food Desert? How State Policy Affects Food Env
 
 Francisco Benítez <br>
 Project Scientist, Berkeley Food Institute
-![Francisco Benítez](/assets/img/francisco.jpg **=10x10**)
+![Francisco Benítez](/assets/img/francisco.jpg)
 Francisco is a project scientist at [Berkeley Food Institute](https://food.berkeley.edu/). He holds a PhD from Wageningen University & Research. He has a multi-disciplinary background specializing in food value chains, acquired from his labor experience in governmental institutions and academic career. His research addresses policy and socioeconomic barriers toward sustainable food systems.
 
 Sakeenah Shabazz
