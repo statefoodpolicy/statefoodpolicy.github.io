@@ -10,7 +10,7 @@ title: Academic Researchers
 ### University of North Texas
 ![Andrea Silva](/assets/img/andrea3.jpg)
 
-Andrea is an assistant professor of political science. She is the project's principal investigator representing UNT.
+Andrea is an associate professor of political science. She is the project's principal investigator representing UNT.
 
 Visit Andrea's UNT faculty page [here](https://politicalscience.unt.edu/people/andrea-silva).
 
