@@ -2,7 +2,7 @@
 layout: post
 title: NSF Announcement
 subtitle: Build & Broaden 3.0
-thumbnail-img: /assets/img/ProjectFig2.jpg
+thumbnail-img: /assets/img/Aim_Infographic.jpg
 tags: [grant, nsf, 2022]
 ---
 
