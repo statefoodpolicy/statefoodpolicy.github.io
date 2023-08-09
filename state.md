@@ -1,6 +1,6 @@
 ---
 layout: page
-title: State | Researchers
+title: State \ Researchers
 ---
 
 <br>
