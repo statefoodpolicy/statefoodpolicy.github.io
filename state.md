@@ -32,6 +32,9 @@ Milele Kennedy
 ### Maine Network of Community Food Councils
 
 Darcy Cooke
+State Coordinator, Maine Network of Community Food Councils<br>
+![Darcy Cooke](/assets/img/darcy.jpg)<br>
+Darcy is a former chef turned community organizer and food justice advocate. She has been coordinating the Maine Network of Community Food Councils for the past two years. To learn more about this group, visit their website at [mainefoodcouncils.net](https://www.mainefoodcouncils.net/). 
 
 --
 
