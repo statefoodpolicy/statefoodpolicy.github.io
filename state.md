@@ -13,9 +13,7 @@ Project Scientist, Berkeley Food Institute<br>
 ![Francisco Benítez](/assets/img/francisco3.jpg)<br>
 Francisco is a project scientist at [Berkeley Food Institute](https://food.berkeley.edu/). He holds a PhD from Wageningen University & Research. He has a multi-disciplinary background specializing in food value chains, acquired from his labor experience in governmental institutions and academic career. His research addresses policy and socioeconomic barriers toward sustainable food systems.
 
---
 
-Sakeenah Shabazz
 
 
 <br>
@@ -67,3 +65,8 @@ Food Policy Advisor, City of Austin<br>
 Amanda serves as a food policy advisor for the City of Austin, currently working to develop the area’s first food plan.  She enjoys collaborating cross-sectorally to leverage her position in local government in support of community-driven solutions to food system issues.  Learn more about [Austin/Travis County’s food plan](https://austin-travis-county-food-plan-austin.hub.arcgis.com/) and other initiatives of the City of Austin Food Team [here](https://www.austintexas.gov/department/austins-healthy-and-equitable-food-system).  
 
 
+
+
+## PAST RESEARCH PARTNERS
+
+Sakeenah Shabazz, formerly of Berkeley Food Institute
