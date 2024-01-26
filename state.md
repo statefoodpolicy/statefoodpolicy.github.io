@@ -65,6 +65,7 @@ Food Policy Advisor, City of Austin<br>
 Amanda serves as a food policy advisor for the City of Austin, currently working to develop the area’s first food plan.  She enjoys collaborating cross-sectorally to leverage her position in local government in support of community-driven solutions to food system issues.  Learn more about [Austin/Travis County’s food plan](https://austin-travis-county-food-plan-austin.hub.arcgis.com/) and other initiatives of the City of Austin Food Team [here](https://www.austintexas.gov/department/austins-healthy-and-equitable-food-system).  
 
 
+<br>
 
 
 ## PAST RESEARCH PARTNERS
