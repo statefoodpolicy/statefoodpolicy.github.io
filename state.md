@@ -21,7 +21,9 @@ Francisco is a project scientist at [Berkeley Food Institute](https://food.berke
 ## INDIANA
 ### Office of Public Health & Safety, City of Indianapolis
 
-Milele Kennedy
+Milele Kennedy <br>
+Director, Community Nutrition & Food Policy <br>
+Milele Kennedy is the Director of the City of Indianapolis, Division of Community Nutrition and Food Policy. A principal advisor to the Mayor’s Office on matters related to food access and security in Indianapolis, Milele has over 15 years working within the food system serving in several roles including as the Food Policy and Program Coordinator for the Office of Public Health and Safety and as the Food Programs Manager for Indy Parks.
 
 
 <br>
