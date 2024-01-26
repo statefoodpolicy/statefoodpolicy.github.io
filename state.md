@@ -71,6 +71,6 @@ Amanda serves as a food policy advisor for the City of Austin, currently working
 <br>
 
 
-## PAST RESEARCH PARTNERS
+## PAST STATE PARTNERS
 
 Sakeenah Shabazz, formerly of Berkeley Food Institute
