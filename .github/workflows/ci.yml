@@ -9,7 +9,7 @@ jobs:
 
       - name: Build the site in the jekyll/builder container
         run: |
-          export JEKYLL_VERSION=4.2  # Update to a newer Jekyll version
+          export JEKYLL_VERSION=latest  # Use the latest version of Jekyll builder
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
