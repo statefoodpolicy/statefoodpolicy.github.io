@@ -1,4 +1,8 @@
-How the COVID-19 Pandemic Impacted Food Insecurity in the U.S.
+---
+layout: post
+title: How the COVID-19 Pandemic Impacted Food Insecurity in the U.S.
+tags: [covid, pandemic, food insecurity, food access, 2025]
+---
 
 The COVID-19 pandemic changed so much about our daily lives—how we worked, learned, and even how we put food on the table. One of the biggest, but sometimes overlooked, impacts of the pandemic was the sharp rise in food insecurity, especially among families with children. While temporary policies helped ease the burden for many, the expiration of these programs has left communities struggling to meet the ongoing demand.
 
